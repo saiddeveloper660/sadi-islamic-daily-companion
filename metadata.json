@@ -1,0 +1,6 @@
+{
+  "name": "সাদি",
+  "description": "Bengali personal Salah tracker, Qada ledger, digital Tasbih, and Islamic daily-life companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
