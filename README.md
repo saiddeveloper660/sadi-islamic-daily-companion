@@ -64,6 +64,47 @@
    - কোনো লগইনের প্রয়োজন নেই, কোনো ট্র্যাকার বা থার্ড-পার্টি অ্যানালিটিক্স নেই।
    - সম্পূর্ণ অফলাইন-ফার্স্ট।
 
+## 📱 App Screenshots
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+<img src="https://github.com/user-attachments/assets/f2d17e7b-1627-4778-b2db-94eb474842ad" width="180">
+<br><br>
+<b>📖 Quran</b>
+</td>
+
+<td align="center" width="20%">
+<img src="https://github.com/user-attachments/assets/f4b42a8d-4ace-4abc-9b6e-55bb54037009" width="180">
+<br><br>
+<b>📚 Hadith</b>
+</td>
+
+<td align="center" width="20%">
+<img src="https://github.com/user-attachments/assets/b79d78af-9964-45fe-aedd-e9d2ba8e4b58" width="180">
+<br><br>
+<b>🤲 Duas</b>
+</td>
+
+<td align="center" width="20%">
+<img src="https://github.com/user-attachments/assets/1eb317ff-3b36-4783-8889-50826882d601" width="180">
+<br><br>
+<b>🕌 Islamic Guidance</b>
+</td>
+
+<td align="center" width="20%">
+<img src="https://github.com/user-attachments/assets/30261a14-9188-48fb-b80b-f5152c4a8a0a" width="180">
+<br><br>
+<b>🌙 Daily Companion</b>
+</td>
+
+</tr>
+</table>
+
+</div>
 ---
 
 ## 🛠️ প্রযুক্তিগত স্থাপত্য (Technical Architecture)
