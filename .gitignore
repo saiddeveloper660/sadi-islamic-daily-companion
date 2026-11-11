@@ -1,0 +1,37 @@
+# Android / Gradle
+.gradle/
+**/build/
+out/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.local/
+
+# Local machine files
+local.properties
+.DS_Store
+Thumbs.db
+
+# Signing keys and certificates - never commit
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+
+# Private environment files
+.env
+.env.*
+!.env.example
+
+# Firebase / cloud credentials
+google-services.json
+GoogleService-Info.plist
+service-account*.json
+*-service-account*.json
+
+# Generated packages
+*.apk
+*.aab
